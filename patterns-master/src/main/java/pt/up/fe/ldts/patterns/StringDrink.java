@@ -1,5 +1,6 @@
 package pt.up.fe.ldts.patterns;
 
+
 public class StringDrink {
     private String text;
 
